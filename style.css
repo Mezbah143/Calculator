@@ -4,7 +4,10 @@ html, body {
   width: 100%;
   font-family: 'Roboto', sans-serif; 
 }
-
+#C{
+    font-weight: bolder;
+    background-color: rgb(246, 131, 9);
+}
 .button{
   width: 66px;
   padding: 20px;
@@ -13,6 +16,7 @@ html, body {
   border-radius: 9px;
   cursor: pointer;
 }
+
 
 .row{
   margin: 8px 0;
